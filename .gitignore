@@ -3,6 +3,7 @@
 *.fig
 *.xd
 
+
 # Dependencies
 /node_modules
 /.pnp
@@ -38,3 +39,6 @@ npm-debug.log*
 *.pem
 .DS_Store
 Thumbs.db
+
+
+README-template*.md
