@@ -34,9 +34,7 @@
 --Rose500: hsl(340, 48%, 52%);
 }
 
-*{
-    /* outline: 1px solid green; */
-}
+
 
 body{
     background-color: var(--Neutral100);
